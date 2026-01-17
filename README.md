@@ -11,7 +11,7 @@ It focuses on high-fidelity visual feedback, smooth interactions, and a minimali
 
 ---
 
-## 📸 Preview
+##  Preview
 
 > _(Add screenshots or a GIF here to showcase the UI)_
 
