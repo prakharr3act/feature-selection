@@ -35,7 +35,7 @@ It focuses on high-fidelity visual feedback, smooth interactions, and a minimali
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** – Semantic structure  
 - **CSS3** – Flexbox, custom transitions, and box-shadows  
