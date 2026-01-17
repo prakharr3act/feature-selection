@@ -45,4 +45,4 @@ It focuses on high-fidelity visual feedback, smooth interactions, and a minimali
 
 
 ```bash
-git clone https://github.com/prakharr3act/feature-selection-ui.git
+git clone https://github.com/prakharr3act/feature-selection.git
