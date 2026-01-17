@@ -17,7 +17,7 @@ It focuses on high-fidelity visual feedback, smooth interactions, and a minimali
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Interactive Toggles**  
   Active cards feature a distinct blue border and checked state for clear visual feedback.
