@@ -13,7 +13,7 @@ It focuses on high-fidelity visual feedback, smooth interactions, and a minimali
 
 ##  Preview
 
-> _(Add screenshots or a GIF here to showcase the UI)_<img width="1105" height="700" alt="Screenshot 2026-01-14 085022" src="https://github.com/user-attachments/assets/77614ec1-e9a0-4282-9477-d92a1c67e83a" />
+> <img width="1105" height="700" alt="Screenshot 2026-01-14 085022" src="https://github.com/user-attachments/assets/77614ec1-e9a0-4282-9477-d92a1c67e83a" />
 
 
 ---
