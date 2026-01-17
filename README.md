@@ -4,7 +4,7 @@ A clean, interactive UI component for users to select and customize premium soft
 
 ---
 
-## 📄 Description
+##  Description
 
 Feature Selection UI is a modern, card-based interface designed for subscription management and feature toggling.  
 It focuses on high-fidelity visual feedback, smooth interactions, and a minimalist user experience.
